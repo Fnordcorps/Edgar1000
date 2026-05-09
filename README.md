@@ -2,6 +2,14 @@
 
 <a href="https://buymeacoffee.com/fnordcorps" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50"></a>
 
+INSTURCTIONS
+
+- DOWNLOAD the Index.html file above
+- Open the file in any browser
+- Progress is saved per-device but can be imported/exported using the buttons at the botto.
+
+
+
 A self-contained, single-file watch tracker for Edgar Wright's curated list of favourite films from a century of cinema. Tap to mark watched, ticks save in your browser, decades-grouped, searchable, no accounts, no tracking, no build step.
 
 ## What's in the list
