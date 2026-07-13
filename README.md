@@ -4,8 +4,8 @@
 
 INSTURCTIONS
 
-- DOWNLOAD the Index.html file above
-- Open the file in any browser
+- Go to the Green [CODE] box above and select download Zip - unzip and double click on the index.html file
+- The checklist will open in your browser
 - Progress is saved per-device but can be imported/exported using the buttons at the botto.
 
 
